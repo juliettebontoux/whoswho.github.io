@@ -1,0 +1,137 @@
+body{
+  background-color:black;
+  color: white;
+  font-family:"bookman old style";
+  font-size: 16px;
+  font-weight:normal;
+}
+  a:link, a:visited{
+    color: black;
+    background-color: white;
+    padding: 14px 25px;
+    margin:2px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  a:hover, a:active{
+    background-color: lightgray;
+  }
+
+  header{
+    Font-family: "bookman old style";
+    color: black;
+    background-color: white;
+    text-align: center;
+    margin: 0px;
+    padding: 100px;
+    
+  }
+  header h1{
+    font-size: 50px;
+  }
+  h1{
+    text-align: center;
+  }
+  
+  
+  main{
+      margin: 0px;
+      padding: 50px;
+      color: white;
+      font-family: "lucida console";
+  }
+      div.picture-gallery{
+        border: 1px solid transparent;
+        margin: 10px;
+      }
+      
+      div.picture-gallery:hover {
+        transform: scale(1.1);
+
+      }
+      
+      div.picture-gallery img {
+        width: 100%;
+        height: auto;
+      }
+      
+      div.description {
+        padding: 15px;
+        text-align: center;
+        font-size: 10px;
+      }
+
+  
+    * {
+      box-sizing: border-box;
+    }  
+    
+
+    div.responsive{
+      padding: 0 6px;
+      float: left;
+      width: 24.99999%;
+    }
+    
+  
+     
+  /*footer{
+      background-color: black;
+      color: white;
+      border: 50px;
+      margin: auto; 
+  }
+  div.contact-form{
+    margin: 50px;
+    padding: 16px 20px
+  }
+
+  input[type=text] {
+      width: 100%;
+      padding: 16px 20px;
+      margin: 5px;
+      box-sizing: border-box;
+      border-radius: 4px;
+      background-color: white;
+    }
+
+    input[type=text]:focus {
+      border: 3px solid #555;
+      background-color: white;
+  }
+
+  select {
+      width: 100%;
+      padding: 12px 20px;
+      margin: 5px;
+      border: none;
+      border-radius: 4px;
+      background-color: white;
+  }
+
+
+  textarea {
+      width: 100%;
+      height: 150px;
+      padding: 12px 20px;
+      margin: 5px;
+      box-sizing: border-box;
+      border: 3px solid #555;
+      border-radius: 4px;
+      background-color: white;
+      resize: none;
+  }
+
+  input[type=button], input[type=submit], input[type=reset] {
+      background-color: white;
+      border: grey;
+      color: black;
+      padding: 16px 32px;
+      text-decoration: none;
+      margin: 5px 5px;
+      cursor: pointer; 
+    }*/
+    
+  
+      
